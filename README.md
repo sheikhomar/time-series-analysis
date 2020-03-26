@@ -1,2 +1,1 @@
-# time-series-analysis
-Time Series Analysis in Python
+# Time Series Analysis in Python
