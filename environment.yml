@@ -12,6 +12,7 @@ dependencies:
   - matplotlib
   - jupyterlab
   - scikit-optimize
+  - black
   - pip
   - pip:
     - statsmodels
